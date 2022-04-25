@@ -1,2 +1,24 @@
 # medabots-site
-Simple fansite compiling information for the Medabots GBA RPGs (Metabee/Rokusho versions aka Medarot 2 Core)
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
